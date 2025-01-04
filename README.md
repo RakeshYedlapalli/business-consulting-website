@@ -19,7 +19,7 @@ Specially designed for agencies and businesses. So anyone can use this for consu
 </tr>
 <tr>
 <td align="center"><a href="https://preview.gridtemplate.com/themes/benzin/index1.html" rel="nofollow"><img src="https://preview.gridtemplate.com/themes/benzin/images/home-1.jpg" alt="" style="max-width:100%;"></a></td>
-<td align="center"><a href="https://preview.gridtemplate.com/themes/benzin/index2.html" rel="nofollow"><img src="https://preview.gridtemplate.com/themes/benzin/images/home-2.jpg" alt="" style="max-width:100%;"></a></td>
+<td align="center"><a href="https://preview.gridtemplate.com/themes/benzin/index.html" rel="nofollow"><img src="https://preview.gridtemplate.com/themes/benzin/images/home-2.jpg" alt="" style="max-width:100%;"></a></td>
 <td align="center"><a href="https://preview.gridtemplate.com/themes/benzin/about.html" rel="nofollow"><img src="https://preview.gridtemplate.com/themes/benzin/images/about.jpg" alt="" style="max-width:100%;"></a></td>
 </tr>
 
